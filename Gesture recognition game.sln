@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gesture recognition game.CSharp.Plugins", "Gesture recognition game.CSharp.Plugins.csproj", "{A8493A7E-B0EE-939E-D07D-257620EFA34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gesture recognition game.CSharp", "Gesture recognition game.CSharp.csproj", "{8D6D732B-7C95-7067-7EDE-7673F81681EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gesture recognition game.CSharp.Editor", "Gesture recognition game.CSharp.Editor.csproj", "{B5B19CBD-D142-3336-FFCE-EFB8638702B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8493A7E-B0EE-939E-D07D-257620EFA34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8493A7E-B0EE-939E-D07D-257620EFA34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8493A7E-B0EE-939E-D07D-257620EFA34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8493A7E-B0EE-939E-D07D-257620EFA34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6D732B-7C95-7067-7EDE-7673F81681EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6D732B-7C95-7067-7EDE-7673F81681EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6D732B-7C95-7067-7EDE-7673F81681EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6D732B-7C95-7067-7EDE-7673F81681EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B19CBD-D142-3336-FFCE-EFB8638702B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B19CBD-D142-3336-FFCE-EFB8638702B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B19CBD-D142-3336-FFCE-EFB8638702B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B19CBD-D142-3336-FFCE-EFB8638702B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

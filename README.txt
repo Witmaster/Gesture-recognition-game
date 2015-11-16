@@ -1,0 +1,3 @@
+This game utilizes $1 algorithm to recognize gestures and compare them to target figure. Player is given a random shape from pre-made templates and has to draw it using touch/mouse input. Received gesture is then rescaled and compared to target. Comparison is affected by rotation, so player has to draw shapes at same angle as given.
+Touch control relies on mouse simulation.
+New gestures can be added from within the game.
